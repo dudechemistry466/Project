@@ -1,0 +1,5 @@
+{
+  "name": "CRYO-ARGO Command Center",
+  "description": "A mission-critical industrial dashboard for tracking active cancer vaccine shipments with real-time temperature monitoring and integrity alerts.",
+  "requestFramePermissions": []
+}
